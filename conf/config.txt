@@ -1,0 +1,7 @@
+port=9999
+log=../log/log.txt
+cache=../data/cache.txt
+enStorage=../data/en_out.txt
+chStorage=../data/ch_out.txt
+cachenum=5
+updatefrequence=15

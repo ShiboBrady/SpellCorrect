@@ -1,0 +1,400 @@
+Client 127.0.0.1:45893 is online.
+
+get 0 cache.
+
+Search from cache: query -> every
+
+get 1 cache.
+
+One pair is add to cache: characto -> chariots
+
+get 2 cache.
+
+Search from cache: query -> every
+
+get 3 cache.
+
+One pair is add to cache: zhang -> hang
+
+get 4 cache.
+
+One pair is add to cache: escapt -> escape
+
+get 0 cache.
+
+One pair is add to cache: zhang -> hang
+
+get 0 cache.
+
+Search from cache: zhang -> hang
+
+get 1 cache.
+
+Search from cache: zhang -> hang
+
+get 2 cache.
+
+Search from cache: query -> every
+
+get 3 cache.
+
+One pair is add to cache: excapt -> except
+
+get 4 cache.
+
+Search from cache: escapt -> escape
+
+get 0 cache.
+
+One pair is add to cache: excapt -> except
+
+get 1 cache.
+
+One pair is add to cache: h -> he
+
+get 2 cache.
+
+Search from cache: zhang -> hang
+
+get 3 cache.
+
+Search from cache: zhang -> hang
+
+get 4 cache.
+
+get 0 cache.
+
+Search from cache: zhang -> hang
+
+Client 127.0.0.1:45893 is offline.
+
+Client 127.0.0.1:45897 is online.
+
+get 0 cache.
+
+One pair is add to cache: nihao -> that
+
+get 1 cache.
+
+One pair is add to cache: hi -> he
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: thet -> the
+
+get 2 cache.
+
+One pair is add to cache: thap -> that
+
+get 3 cache.
+
+One pair is add to cache: mingbai -> king
+
+get 4 cache.
+
+Search from cache: zhang -> hang
+
+get 0 cache.
+
+One pair is add to cache: qiang -> king
+
+get 1 cache.
+
+One pair is add to cache: mingbia -> king
+
+get 2 cache.
+
+One pair is add to cache: locak -> flock
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: Host -> not
+
+get 2 cache.
+
+One pair is add to cache: Host -> not
+
+get 3 cache.
+
+One pair is add to cache: ost -> out
+
+get 4 cache.
+
+One pair is add to cache: uot -> not
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: beink -> being
+
+get 2 cache.
+
+One pair is add to cache: mingmingbaibai -> abominable
+
+get 3 cache.
+
+One pair is add to cache: æÿõÿý -> Try again
+
+Client 127.0.0.1:45897 is offline.
+
+Client 127.0.0.1:45898 is online.
+
+get 0 cache.
+
+One pair is add to cache: NIHA -> Try again
+
+get 1 cache.
+
+One pair is add to cache: \nk -> and
+
+get 0 cache.
+
+One pair is add to cache: HEHE -> Try again
+
+get 1 cache.
+
+One pair is add to cache: K -> Try again
+
+get 2 cache.
+
+One pair is add to cache: C -> Try again
+
+get 3 cache.
+
+One pair is add to cache: E -> Try again
+
+get 4 cache.
+
+One pair is add to cache: IMD -> Try again
+
+get 0 cache.
+
+One pair is add to cache: READ -> Try again
+
+get 0 cache.
+
+One pair is add to cache: kkk -> ark
+
+get 1 cache.
+
+One pair is add to cache: kkkkk -> akkub
+
+get 2 cache.
+
+One pair is add to cache: fe -> he
+
+get 3 cache.
+
+Client 127.0.0.1:45898 is offline.
+
+Client 127.0.0.1:45899 is online.
+
+get 0 cache.
+
+get 1 cache.
+
+get 2 cache.
+
+One pair is add to cache: an[ -> and
+
+get 3 cache.
+
+One pair is add to cache: anp -> and
+
+get 4 cache.
+
+get 0 cache.
+
+Search from cache: word -> word
+
+get 0 cache.
+
+One pair is add to cache: sleepp -> sleep
+
+get 1 cache.
+
+get 0 cache.
+
+One pair is add to cache: :q -> queen
+
+Client 127.0.0.1:45899 is offline.
+
+Client 127.0.0.1:45900 is online.
+
+Client 127.0.0.1:45900 is offline.
+
+Client 127.0.0.1:45902 is online.
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: mingba -> king
+
+get 0 cache.
+
+Client 127.0.0.1:45904 is online.
+
+get 0 cache.
+
+Client 127.0.0.1:45906 is online.
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: zhan -> than
+
+get 0 cache.
+
+Search from cache: zhang -> hang
+
+get 1 cache.
+
+One pair is add to cache: shib -> his
+
+get 2 cache.
+
+One pair is add to cache: wangji -> angel
+
+get 3 cache.
+
+One pair is add to cache: ange -> anger
+
+get 4 cache.
+
+One pair is add to cache: fjdk -> fed
+
+get 0 cache.
+
+One pair is add to cache: rea -> yea
+
+get 0 cache.
+
+get 1 cache.
+
+Client 127.0.0.1:45907 is online.
+
+get 0 cache.
+
+Client 127.0.0.1:45908 is online.
+
+get 0 cache.
+
+Client 127.0.0.1:45910 is online.
+
+Client 127.0.0.1:45910 is offline.
+
+Client 127.0.0.1:45911 is online.
+
+Client 127.0.0.1:45911 is offline.
+
+Client 127.0.0.1:45912 is online.
+
+get 0 cache.
+
+One pair is add to cache: marku -> mark
+
+get 1 cache.
+
+One pair is add to cache: u -> up
+
+get 0 cache.
+
+One pair is add to cache: quer -> her
+
+get 1 cache.
+
+get 2 cache.
+
+One pair is add to cache: jfkdajf;ls -> days
+
+get 3 cache.
+
+One pair is add to cache: feirukafjkdjdkj -> jerusalem
+
+get 4 cache.
+
+One pair is add to cache: rieajdkfjk -> heard
+
+get 0 cache.
+
+One pair is add to cache: vkrjeajkdfj -> bread
+
+get 0 cache.
+
+One pair is add to cache: brea -> break
+
+get 1 cache.
+
+get 2 cache.
+
+One pair is add to cache: maste -> master
+
+get 3 cache.
+
+One pair is add to cache: mas -> was
+
+get 4 cache.
+
+Client 127.0.0.1:45913 is online.
+
+get 0 cache.
+
+One pair is add to cache: ehl -> the
+
+get 1 cache.
+
+One pair is add to cache: helo -> held
+
+get 2 cache.
+
+Search from cache: hello -> hell
+
+get 3 cache.
+
+One pair is add to cache: janse -> and
+
+get 0 cache.
+
+One pair is add to cache: shuxu -> shall
+
+get 1 cache.
+
+One pair is add to cache: writen -> written
+
+get 2 cache.
+
+get 3 cache.
+
+One pair is add to cache: readn -> bread
+
+get 4 cache.
+
+One pair is add to cache: min -> in
+
+get 0 cache.
+
+One pair is add to cache: max -> man
+
+Client 127.0.0.1:45914 is online.
+
+get 0 cache.
+
+Search from cache: hello -> hell
+
+get 0 cache.
+
+get 0 cache.
+
+get 0 cache.
+
+get 1 cache.
+
+One pair is add to cache: å¼ ä¸–æŸÿõÿý -> ç™½ä¸–é•œ
+
